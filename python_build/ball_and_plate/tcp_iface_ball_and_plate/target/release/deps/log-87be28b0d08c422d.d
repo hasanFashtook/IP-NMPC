@@ -1,0 +1,10 @@
+E:\cart-pole\python_build\ball_and_plate\tcp_iface_ball_and_plate\target\release\deps\liblog-87be28b0d08c422d.rmeta: C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\lib.rs C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\macros.rs C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\serde.rs C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\__private_api.rs
+
+E:\cart-pole\python_build\ball_and_plate\tcp_iface_ball_and_plate\target\release\deps\liblog-87be28b0d08c422d.rlib: C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\lib.rs C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\macros.rs C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\serde.rs C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\__private_api.rs
+
+E:\cart-pole\python_build\ball_and_plate\tcp_iface_ball_and_plate\target\release\deps\log-87be28b0d08c422d.d: C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\lib.rs C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\macros.rs C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\serde.rs C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\__private_api.rs
+
+C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\lib.rs:
+C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\macros.rs:
+C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\serde.rs:
+C:\Users\Hasan\ Fashtouk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.25\src\__private_api.rs:

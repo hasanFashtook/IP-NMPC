@@ -1,0 +1,643 @@
+OUT_DIR = Some(E:\cart-pole\python_build\ball_and_plate\target\release\build\icasadi_ball_and_plate-ab203be82fa701d6\out)
+OPT_LEVEL = Some(3)
+TARGET = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(E:\cart-pole\python_build\ball_and_plate\target\release\deps;E:\cart-pole\python_build\ball_and_plate\target\release;C:\Users\Hasan Fashtouk\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;C:\Program Files (x86)\STMicroelectronics\stlink_server;C:\ST\STM32CubeCLT_1.16.0;C:\ST\STM32CubeCLT_1.16.0\CMake\bin;C:\ST\STM32CubeCLT_1.16.0\Ninja\bin;C:\ST\STM32CubeCLT_1.16.0\GNU-tools-for-STM32\bin;C:\ST\STM32CubeCLT_1.16.0\STLink-gdb-server\bin;C:\ST\STM32CubeCLT_1.16.0\STM32CubeProgrammer\bin;C:\Users\Hasan Fashtouk\AppData\Local\Programs\Python\Python312\Scripts;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Polyspace\R2020a\runtime\win64;C:\Program Files\Polyspace\R2020a\bin;C:\Program Files\Polyspace\R2020a\polyspace\bin;C:\Users\Hasan Fashtouk\AppData\Local\Programs\Python\Python312;C:\Program Files\Git\cmd;C:\Program Files\Git\cmd;C:\Users\Hasan Fashtouk\Downloads\stripe_1.21.2_windows_i386;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Hasan Fashtouk\.bun\bin;C:\Program Files\PowerShell\7\;c:\Users\Hasan Fashtouk\AppData\Local\Programs\cursor\resources\app\bin;C:\Windows\system32;C:\WindowsC:\Windows;C:\Users\Hasan Fashtouk\AppData\Local\Programs\Python\Launcher\;C:\Users\Hasan Fashtouk\.cargo\bin;C:\Users\Hasan Fashtouk\.console-ninja\.bin;C:\Users\Hasan Fashtouk\AppData\Local\Microsoft\WindowsApps;C:\Users\Hasan Fashtouk\AppData\Roaming\npm;C:\Users\Hasan Fashtouk\.bun\bin;C:\Users\Hasan Fashtouk\AppData\Local\Programs\Microsoft VS Code\bin;c:\Users\Hasan Fashtouk\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+DEBUG = Some(false)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+CARGO_ENCODED_RUSTFLAGS = Some()
+OUT_DIR = Some(E:\cart-pole\python_build\ball_and_plate\target\release\build\icasadi_ball_and_plate-ab203be82fa701d6\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+OUT_DIR = Some(E:\cart-pole\python_build\ball_and_plate\target\release\build\icasadi_ball_and_plate-ab203be82fa701d6\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+OUT_DIR = Some(E:\cart-pole\python_build\ball_and_plate\target\release\build\icasadi_ball_and_plate-ab203be82fa701d6\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+OUT_DIR = Some(E:\cart-pole\python_build\ball_and_plate\target\release\build\icasadi_ball_and_plate-ab203be82fa701d6\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+auto_casadi_cost.c
+extern/auto_casadi_cost.c(74): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_cost.c(74): warning C4100: 'iw': unreferenced formal parameter
+extern/auto_casadi_cost.c(3996): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_cost.c(4000): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_cost.c(4007): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_cost.c(4023): warning C4065: switch statement contains 'default' but no 'case' labels
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2704) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2678) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2664) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2652) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2620) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2566) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2516) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3948) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3936) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3904) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3850) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3800) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3974) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(324) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(952) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(936) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2206) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2222) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3492) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3476) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(484) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(534) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(588) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(620) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(632) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(646) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(672) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1902) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1804) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1858) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1890) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1916) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1754) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1942) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3186) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3024) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3074) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3128) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3212) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3160) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3172) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(390) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1460) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1444) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2714) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2730) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1180) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1042) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1128) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(992) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1096) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1140) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1154) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2410) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2366) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2312) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2262) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2398) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2424) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2450) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3636) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3694) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3532) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3668) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3720) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3582) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3680) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(196) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(698) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(682) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1968) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1952) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3238) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3222) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(260) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(418) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1688) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1500) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1550) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1604) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1636) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1648) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1662) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2770) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2820) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2874) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2906) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2918) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2932) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2958) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(372) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(360) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1190) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1206) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2460) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2476) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3746) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3730) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3758) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(842) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(874) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(738) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(788) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(886) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(900) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(926) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2008) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2196) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2170) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2058) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2112) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2144) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2156) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3466) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3440) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3426) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3382) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3328) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3414) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(3278) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(428) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(444) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1714) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1698) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2968) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(2984) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1434) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1296) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1350) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1382) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1408) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1394) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(1246) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(144) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(126) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(122) : warning C4711: function 'open_phi_ball_and_plate_copy' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(114) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(104) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(94) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(86) : warning C4711: function 'open_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_cost.c(82) : warning C4711: function 'open_phi_ball_and_plate_copy' selected for automatic inline expansion
+auto_casadi_grad.c
+extern/auto_casadi_grad.c(80): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_grad.c(80): warning C4100: 'iw': unreferenced formal parameter
+extern/auto_casadi_grad.c(6572): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_grad.c(6576): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_grad.c(6583): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_grad.c(6599): warning C4065: switch statement contains 'default' but no 'case' labels
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(776) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(726) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(830) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(854) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2694) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2670) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2616) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2566) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2142) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2118) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2064) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2014) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(272) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1590) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1566) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1462) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1512) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(910) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(960) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1014) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1038) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2876) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2852) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2798) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2748) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(358) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(408) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(462) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(486) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2248) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2302) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2326) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2198) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(298) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1696) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1750) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1774) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1646) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1222) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1198) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1094) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1144) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(208) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(670) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(646) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(592) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(542) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2382) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2432) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2486) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(2510) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(6560) : warning C4711: function 'open_grad_phi_ball_and_plate_copy' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1830) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1880) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1934) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1958) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1328) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1278) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1406) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(1382) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(144) : warning C4711: function 'open_grad_phi_ball_and_plate_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(102) : warning C4711: function 'open_grad_phi_ball_and_plate_copy' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(88) : warning C4711: function 'open_grad_phi_ball_and_plate_copy' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_grad.c(84) : warning C4711: function 'open_grad_phi_ball_and_plate_clear' selected for automatic inline expansion
+auto_casadi_mapping_f2.c
+extern/auto_casadi_mapping_f2.c(57): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_mapping_f2.c(57): warning C4100: 'w': unreferenced formal parameter
+extern/auto_casadi_mapping_f2.c(57): warning C4100: 'iw': unreferenced formal parameter
+extern/auto_casadi_mapping_f2.c(57): warning C4100: 'arg': unreferenced formal parameter
+extern/auto_casadi_mapping_f2.c(74): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_mapping_f2.c(78): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_mapping_f2.c(85): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_mapping_f2.c(101): warning C4065: switch statement contains 'default' but no 'case' labels
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_mapping_f2.c(67) : warning C4711: function 'open_mapping_f2_ball_and_plate_f0' selected for automatic inline expansion
+auto_casadi_mapping_f1.c
+extern/auto_casadi_mapping_f1.c(57): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_mapping_f1.c(57): warning C4100: 'w': unreferenced formal parameter
+extern/auto_casadi_mapping_f1.c(57): warning C4100: 'iw': unreferenced formal parameter
+extern/auto_casadi_mapping_f1.c(57): warning C4100: 'arg': unreferenced formal parameter
+extern/auto_casadi_mapping_f1.c(74): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_mapping_f1.c(78): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_mapping_f1.c(85): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_casadi_mapping_f1.c(101): warning C4065: switch statement contains 'default' but no 'case' labels
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_casadi_mapping_f1.c(67) : warning C4711: function 'open_mapping_f1_ball_and_plate_f0' selected for automatic inline expansion
+auto_preconditioning_functions.c
+extern/auto_preconditioning_functions.c(84): warning C4668: '__STDC_VERSION__' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+extern/auto_preconditioning_functions.c(93): warning C4668: '__STDC_VERSION__' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+extern/auto_preconditioning_functions.c(102): warning C4668: '__STDC_VERSION__' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+extern/auto_preconditioning_functions.c(115): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(115): warning C4100: 'iw': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6619): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6623): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6630): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6646): warning C4065: switch statement contains 'default' but no 'case' labels
+extern/auto_preconditioning_functions.c(6696): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6696): warning C4100: 'w': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6696): warning C4100: 'iw': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6696): warning C4100: 'arg': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6713): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6717): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6724): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6740): warning C4065: switch statement contains 'default' but no 'case' labels
+extern/auto_preconditioning_functions.c(6790): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6790): warning C4100: 'w': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6790): warning C4100: 'iw': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6790): warning C4100: 'arg': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6807): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6811): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6818): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6834): warning C4065: switch statement contains 'default' but no 'case' labels
+extern/auto_preconditioning_functions.c(6884): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(6884): warning C4100: 'iw': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(10824): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(10828): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(10835): warning C4100: 'mem': unreferenced formal parameter
+extern/auto_preconditioning_functions.c(10851): warning C4065: switch statement contains 'default' but no 'case' labels
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6706) : warning C4711: function 'auto_preconditioning_functions_f1' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9468) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9382) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9520) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9494) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9480) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9436) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9332) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10810) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10666) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10752) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10720) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10764) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10790) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10800) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10808) : warning C4711: function 'auto_preconditioning_functions_fmin' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10802) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10616) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7140) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7768) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7752) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9038) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9022) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10308) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10292) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7488) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7404) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7350) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7300) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7436) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7448) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7462) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8706) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8718) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8758) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8674) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8620) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8570) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8732) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9840) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9890) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10028) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10002) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9988) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9976) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9944) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7206) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8276) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8260) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9546) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9530) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7996) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7858) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7808) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7912) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7944) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7956) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7970) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9182) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9128) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9078) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9266) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9240) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9226) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9214) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10496) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10398) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10536) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10510) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10348) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10484) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10452) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7012) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7498) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7514) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8784) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8768) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10038) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10054) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7076) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7234) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8316) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8366) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8504) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8478) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8464) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8452) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8420) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9690) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9774) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9722) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9748) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9734) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9586) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9636) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7176) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7188) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8006) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8022) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9276) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9292) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10574) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10562) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10546) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7554) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7604) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7658) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7690) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7716) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7742) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7702) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8972) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8824) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8928) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8874) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9012) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8986) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8960) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10282) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10230) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10094) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10144) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10198) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10242) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(10256) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7260) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(7244) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8514) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8530) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9800) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(9784) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8250) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8062) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8166) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8198) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8210) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8112) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(8224) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6960) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6942) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6938) : warning C4711: function 'auto_preconditioning_functions_copy' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6930) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6920) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6910) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6902) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6898) : warning C4711: function 'auto_preconditioning_functions_copy' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6535) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6533) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(767) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(817) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(871) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(895) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6595) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6593) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2607) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2711) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2735) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2657) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6517) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6515) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6577) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6575) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2055) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2105) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2183) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2159) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(313) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6559) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6557) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1631) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1503) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1553) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1607) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6541) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6539) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1001) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(951) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1079) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1055) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6599) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6601) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6603) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2791) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2841) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2895) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2919) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6521) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6523) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(449) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(399) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(503) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(527) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6581) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6583) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2289) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2239) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2343) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2367) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(339) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6563) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6565) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1815) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1791) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1737) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1687) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6547) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6545) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1185) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1239) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1263) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1135) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(249) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6527) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6529) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(583) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(633) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(687) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(711) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6589) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6587) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2423) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2473) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2551) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(2527) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6569) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6571) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1871) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1975) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1921) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1999) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6551) : warning C4711: function 'auto_preconditioning_functions_fabs' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6553) : warning C4711: function 'auto_preconditioning_functions_fmax' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1423) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1447) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1369) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(1319) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(185) : warning C4711: function 'auto_preconditioning_functions_sq' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(143) : warning C4711: function 'auto_preconditioning_functions_copy' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(125) : warning C4711: function 'auto_preconditioning_functions_clear' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(123) : warning C4711: function 'auto_preconditioning_functions_clear' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(129) : warning C4711: function 'auto_preconditioning_functions_copy' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\auto_preconditioning_functions.c(6800) : warning C4711: function 'auto_preconditioning_functions_f2' selected for automatic inline expansion
+interface.c
+extern/interface.c(397): warning C4296: '<': expression is always false
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\interface.c(656) : warning C4711: function 'preconditioning_w1_function_ball_and_plate' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\interface.c(657) : warning C4711: function 'preconditioning_w2_function_ball_and_plate' selected for automatic inline expansion
+E:\cart-pole\python_build\ball_and_plate\icasadi_ball_and_plate\extern\interface.c(658) : warning C4711: function 'preconditioning_w_cost_function_ball_and_plate' selected for automatic inline expansion
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rustc-link-lib=static=icasadi
+cargo:rustc-link-search=native=E:\cart-pole\python_build\ball_and_plate\target\release\build\icasadi_ball_and_plate-ab203be82fa701d6\out
+cargo:rerun-if-changed=extern/auto_casadi_cost.c
+cargo:rerun-if-changed=extern/auto_casadi_grad.c
+cargo:rerun-if-changed=extern/auto_casadi_mapping_f2.c
+cargo:rerun-if-changed=extern/auto_casadi_mapping_f1.c
+cargo:rerun-if-changed=extern/auto_preconditioning_functions.c
+cargo:rerun-if-changed=extern/interface.c
